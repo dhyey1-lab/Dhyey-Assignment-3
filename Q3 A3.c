@@ -18,3 +18,8 @@ void sortArray() {
         printf("%d ", arr[i]);
     printf("\n");
 }
+int main() {
+    sortArray();
+    return 0;
+}
+
